@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Keep the Gradle wrapper bootstrap JAR despite the repository-wide *.jar rule
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Kotlin plugin data
+.kotlin
